@@ -244,7 +244,7 @@ It should work now and we have a new schema version.
 #### Running consumer v2 (exclusive shell)
 
 ```shell
-  cd migration-app-v1
+  cd migration-app-v2
   java -classpath target/migration-app-v2-1.0.0-SNAPSHOT-jar-with-dependencies.jar com.tomasalmeida.data.contract.migration.ConsumerRunner
 ```
 
